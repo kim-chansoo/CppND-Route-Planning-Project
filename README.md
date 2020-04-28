@@ -18,6 +18,7 @@ git clone git@github.com:udacity/CppND-Route-Planning-Project.git --recurse-subm
 ## Dependencies for Running Locally
 * cmake >= 3.11.3
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
+  * you can install up-to-date version in 'Ubuntu soft ware app'
 * make >= 4.1 (Linux, Mac), 3.81 (Windows)
   * Linux: make is installed by default on most Linux distros
   * Mac: [install Xcode command line tools to get make](https://developer.apple.com/xcode/features/)
@@ -29,6 +30,7 @@ git clone git@github.com:udacity/CppND-Route-Planning-Project.git --recurse-subm
 * IO2D
   * Installation instructions for all operating systems can be found [here](https://github.com/cpp-io2d/P0267_RefImpl/blob/master/BUILDING.md)
   * This library must be built in a place where CMake `find_package` will be able to find it
+  https://gist.github.com/wAuner/68ee426b87d297340826660f5ac62b79 <- this will help you
 
 ## Compiling and Running
 
